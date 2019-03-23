@@ -3,3 +3,5 @@ target/
 RemoteSystemTempFiles/
 .classpath
 .settings/
+.project
+bin
